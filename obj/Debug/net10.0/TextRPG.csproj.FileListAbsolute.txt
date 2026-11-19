@@ -1,0 +1,14 @@
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\bin\Debug\net10.0\TextRPG.exe
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\bin\Debug\net10.0\TextRPG.deps.json
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\bin\Debug\net10.0\TextRPG.runtimeconfig.json
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\bin\Debug\net10.0\TextRPG.dll
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\bin\Debug\net10.0\TextRPG.pdb
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\obj\Debug\net10.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\obj\Debug\net10.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\obj\Debug\net10.0\TextRPG.AssemblyInfo.cs
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\obj\Debug\net10.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\obj\Debug\net10.0\TextRPG.dll
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\obj\Debug\net10.0\refint\TextRPG.dll
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\obj\Debug\net10.0\TextRPG.pdb
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\obj\Debug\net10.0\TextRPG.genruntimeconfig.cache
+C:\Users\Tikhonov_ISIP23_1\Downloads\TextRPG_original_fixed_logger\TextRPG\obj\Debug\net10.0\ref\TextRPG.dll
